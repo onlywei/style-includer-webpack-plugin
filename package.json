@@ -1,0 +1,24 @@
+{
+  "name": "style-includer-webpack-plugin",
+  "version": "0.0.0",
+  "description": "Includes style file from component packages into Webpack builds",
+  "main": "src/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onlywei/style-includer-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "style",
+    "css",
+    "webpack",
+    "plugin"
+  ],
+  "author": "Wei Wang <wei@fastmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onlywei/style-includer-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/onlywei/style-includer-webpack-plugin#readme"
+}
